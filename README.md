@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="128" alt="OFS-Modding">
+</p>
+
 # OFS Asset Authoring
 
 Minimal Unity project pinned to `6000.3.13f1`, the editor version used by the
